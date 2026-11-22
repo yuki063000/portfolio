@@ -1,0 +1,27 @@
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.prof-img{
+  display: flex;
+  width: 15%;
+  height: 15%;
+}
+
+.site{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size:20px;
+  gap: 32px;
+}
